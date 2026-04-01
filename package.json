@@ -1,0 +1,9 @@
+{
+  "name": "telegram-audio-number-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that sends an mp3 file by entered number after channel subscription check.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  }
+}

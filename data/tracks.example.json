@@ -1,0 +1,14 @@
+{
+  "1001": {
+    "url": "https://example.com/audio/example-1001.mp3",
+    "caption": "Ваш mp3 для номера 1001",
+    "buyUrl": "https://example.com/buy-1001",
+    "buyText": "Купить"
+  },
+  "2002": {
+    "file": "example-2002.mp3",
+    "caption": "Ваш mp3 для номера 2002",
+    "buyUrl": "https://example.com/buy-2002",
+    "buyText": "Купить"
+  }
+}
